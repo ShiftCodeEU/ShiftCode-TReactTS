@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#__next {
+    display: contents;
+}
+
+.bg-gradient-lightGray {
+    background: linear-gradient(#fff, #e3e7e9);
+}
