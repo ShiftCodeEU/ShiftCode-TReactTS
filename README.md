@@ -4,8 +4,8 @@
   <a href="https://github.com/ShiftCodeEU/ShiftCode-TReactTS/blob/main/LICENCE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-   <a href="https://github.comShiftCodeEU/DeviceViewer/actions/workflows/workspace-ci.yml">
-    <img src="https://github.com/ShiftCodeEU/DeviceViewer/actions/workflows/workspace-ci.yml/badge.svg" alt="CI">
+   <a href="https://github.com/ShiftCodeEU/ShiftCode-TReactTS/actions/workflows/workspace-ci.yml">
+    <img src="https://github.com/ShiftCodeEU/ShiftCode-TReactTS/actions/workflows/workspace-ci.yml/badge.svg" alt="CI">
   </a>
 </p>
 
