@@ -4,6 +4,9 @@
   <a href="https://github.com/ShiftCodeEU/ShiftCode-TReactTS/blob/main/LICENCE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
+   <a href="https://github.comShiftCodeEU/DeviceViewer/actions/workflows/workspace-ci.yml">
+    <img src="https://github.com/ShiftCodeEU/DeviceViewer/actions/workflows/workspace-ci.yml/badge.svg" alt="CI">
+  </a>
 </p>
 
 > Boilerplate for building native apps using ReactJS (TypeScript) as frontend and Tauri (Rust) as backend. Also includes nice 2 haves like Tanstack router, Tailwind + flowbite, Prettier, Eslint, PostCSS and react-icons packaged together using Vite.
